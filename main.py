@@ -30,6 +30,3 @@ while True:
     cv.putText(img,hex_code,(100,500),cv.FONT_HERSHEY_SIMPLEX,2,(255,255,255))
 
     img[:] = [b,g,r]
-
-
-
